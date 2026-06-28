@@ -17,6 +17,4 @@ jobs:
       - name: Push to hub
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-          # The format is: https://[USERNAME]:[TOKEN]@huggingface.co/spaces/[USERNAME]/[SPACE_NAME]
-          # We'll use KhoaHoang2 as the default username and Blackjack-ai- as the space name.
-        run: git push --force https://KhoaHoang2:$HF_TOKEN@huggingface.co/spaces/KhoaHoang2/Blackjack-ai- main
+        run: git push --force https://KhoaH1:$HF_TOKEN@huggingface.co/spaces/KhoaH1/blackjack-ai main
