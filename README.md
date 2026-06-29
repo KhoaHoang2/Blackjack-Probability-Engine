@@ -1,5 +1,5 @@
 ---
-title: Blackjack AI
+title: Blackjack Simulator & Probability Engine
 emoji: 🃏
 colorFrom: green
 colorTo: blue
@@ -8,5 +8,5 @@ app_file: app.py
 pinned: false
 ---
 
-# Blackjack AI Simulator
+# Blackjack Simulator & Probability Engine
 A high-performance Blackjack simulator with a custom combinations engine, AI advisor, and vectorized mass-simulation built in Python and Gradio.

@@ -737,7 +737,7 @@ def create_app():
     """
 
     with gr.Blocks(
-        title="♠ Blackjack AI — Casino Simulator & EV Engine by Khoa Hoang",
+        title="♠ Blackjack Simulator & Probability Engine by Khoa Hoang",
     ) as app:
 
         # ── State ────────────────────────────────────────────────────
@@ -746,8 +746,8 @@ def create_app():
         # ── Header ───────────────────────────────────────────────────
         gr.Markdown(
             """
-            # ♠ BLACKJACK AI
-            ### Casino Simulator • Combinatoric Engine • EV Maximizer • by Khoa Hoang
+            # ♠ BLACKJACK SIMULATOR
+            ### Probability Engine • Combinatorics • EV Maximizer • by Khoa Hoang
             """,
         )
 
