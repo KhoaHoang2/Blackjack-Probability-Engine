@@ -17,4 +17,4 @@ jobs:
       - name: Push to hub
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-        run: git push --force https://KhoaH1:$HF_TOKEN@huggingface.co/spaces/KhoaH1/blackjack-ai main
+        run: git push --force https://KhoaH1:$HF_TOKEN@huggingface.co/spaces/KhoaH1/Blackjack-Probability-Engine main
