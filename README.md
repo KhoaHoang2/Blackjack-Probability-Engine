@@ -9,4 +9,7 @@ pinned: false
 ---
 
 # Blackjack Simulator & Probability Engine
-A high-performance Blackjack simulator with a custom combinations engine, AI advisor, and vectorized mass-simulation built in Python and Gradio.
+A high-performance Blackjack simulator with a custom combinations engine and vectorized mass-simulation built in Python and Gradio.
+
+Click the link to check it out!
+https://huggingface.co/spaces/KhoaH1/Blackjack-Probability-Engine
